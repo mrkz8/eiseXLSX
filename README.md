@@ -61,3 +61,11 @@ New in version 1.6:
 - method eiseXLSX::getDataValidationList($cellAddress) - returns data validation list as associative array.
 - static method eiseXLSX::checkAddressInRange() - checks whether cell address belong to given range or not.
 - method eiseXSLX::getDataByRange() - returns associative array of data in specified cell range.
+
+
+Issues:
+
+Not return value if cell is empty
+
+Now -> Visit wiki page
+
